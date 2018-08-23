@@ -1,0 +1,17 @@
+{
+  "name": "disarray",
+  "version": "0.1.0",
+  "description": "arrays as the only data type",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["esoteric", "esolang", "array"],
+  "author": "zenoamaro <zenoamaro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
+}
